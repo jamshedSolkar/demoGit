@@ -5,9 +5,10 @@
 }
 
 body {
-  background-color: red;
+  background-color: blue;
   color: white;
   font-size: 12px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 /*# sourceMappingURL=css.css.map */
