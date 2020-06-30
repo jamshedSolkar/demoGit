@@ -4,4 +4,12 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: blue;
+  color: white;
+  font-size: 12px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: left;
+}
+
 /*# sourceMappingURL=css.css.map */
